@@ -1,0 +1,3 @@
+﻿  Snake.cpp
+D:\code snake\file tạm\Game\Snake.cpp(216,23): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Game.vcxproj -> D:\code snake\file tạm\x64\Debug\Game.exe
